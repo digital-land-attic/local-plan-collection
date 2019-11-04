@@ -3,11 +3,11 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/local-plan/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 
-A prototype national dataset of local plan documents published by Local Planning Authorities.
+A prototype of a national dataset of local plan documents published by Local Planning Authorities.
 
 The list of documents collected is available in the dataset [dataset/local-plan.csv](dataset/local-plan.csv).
 
-The source list of documents collected is kept and maintained using the [local plans prototype](https://local-plans-prototype.herokuapp.com/) [source](https://github.com/digital-land/local-plans-prototype).
+The source list of documents collected is kept and maintained using the [local plans prototype](https://local-plans-prototype.herokuapp.com/) -- [source](https://github.com/digital-land/local-plans-prototype).
 
 The [collection](collection) directory contains:
 
