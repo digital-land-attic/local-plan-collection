@@ -34,3 +34,6 @@ clobber::
 
 init::
 	pip3 install -r requirements.txt
+
+slugify:
+	python bin/slugify.py
